@@ -1,6 +1,6 @@
 {
   "name": "@discord-rose/flags-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flags middleware for discord-rose",
   "main": "index.js",
   "scripts": {

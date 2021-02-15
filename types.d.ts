@@ -1,3 +1,5 @@
+import { CommandContext } from "discord-rose/dist/structures/CommandContext";
+
 declare module 'discord-rose/dist/typings/lib' {
   interface CommandContext {
     flags: {
